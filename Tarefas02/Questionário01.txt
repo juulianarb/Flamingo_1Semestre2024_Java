@@ -1,0 +1,55 @@
+1) Defina com suas palavras o que é Java?
+
+R: Java é uma linguagem de programação, que pode ser executado em qualquer plataforma e tem seu próprio ambiente de execução (JRE).
+
+2) Defina com suas palavras o que é plataforma Java?
+
+R: É um ambiente em que o programa java é executado, este ambiente no caso do java, é chamado de JRE. 
+
+3) Defina com suas palavras o que é linguagem de programação Java?
+
+R: É um conjunto de instruções e regras para gerar um programa, no caso do java, é uma linguagem orientada a objetos, que pode ser executado em qualquer plataforma, e tem que declarar o tipo das variáveis e funções, ou pode dar errado.  
+
+4) Defina com suas palavras o que é Java?
+
+R: Java é uma linguagem de programação, que tem como característica a programação orientada a objetos, ou seja, na organização dos nossos dados através de funções e valores.
+
+5) Defina com suas palavras o que é editor de texto? Cite exemplos.
+
+R: É uma ferramenta utilizada para escrever e editar textos. Por exemplo, Word, Vscode, Eclipse, Googledocs, Bloco de notas, Notepad, etc...
+
+6) Defina com suas palavras o que é IDE? Cite exemplos.
+
+R: IDE é um ambiente integrado que auxilia o desenvolvedor a criar códigos. Por exemplo, Vscode é um dos mais utilizados, Eclipse, IntelliJ IDEIA...
+
+7) Cite cinco exemplos de IDE que podem ser utilizadas para desenvolver a linguagem de programação Java.
+
+1- Eclipse 2- IntelliJ IDEIA 3- Xcode 4- BlueJ 5- Myeclipse.
+
+8) Defina com suas palavras o que é a sigla JVM?
+
+R: JVM é uma maquina virtual, que carrega, verifica e executa um código java.
+
+9) Explique com suas palavras o conteúdo de uma JVM.
+
+R: A principal função do JVM é compilar o código java, não tendo necessidade de um compilador, ele simula uma maquina fisica para conseguir executar os programas e arquivos, sendo assim, pode rodar o código em qualquer sistema operacional.
+
+10) Explique com suas palavras o que é Projeto.
+
+R: É um arquivo contendo outros arquivos para compilar um código em java e executar um programa.
+
+11) Explique com suas palavras o que é pacote.
+
+R: É um arquivo para organizar e deixar o código compeensível para outros desenvolvedores.
+
+12) Explique com suas palavras o que é Classe.
+
+R: Classe é usada para definir um tipo de dado
+
+13) Cite 5 areas onde encontramos a linguagem de programação Java.
+
+R: Jogos, aplicativos web, software empresarial, aplicativos de desktop e aplicativos baseados em nuvem.
+
+14) Explique com suas palavras o que é o conceito de Case Sensitity.
+
+R: Uma linguagem case-sensitive, quer dizer que ela faz uma distinção entre letras minúsculas e maiúsculas, o java é uma liguagem fortemente tipada, se não fornecer o tipo, dá erro. 
