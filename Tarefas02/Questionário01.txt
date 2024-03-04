@@ -44,7 +44,7 @@ R: É um arquivo para organizar e deixar o código compeensível para outros des
 
 12) Explique com suas palavras o que é Classe.
 
-R: Classe é usada para definir um tipo de dado
+R: Classe é um conjunto de objetos.
 
 13) Cite 5 areas onde encontramos a linguagem de programação Java.
 
