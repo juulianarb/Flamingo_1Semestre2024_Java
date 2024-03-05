@@ -11,18 +11,18 @@ public class Atividade01 {
 		try {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Informe sua idade em anos:");
+		System.out.println("Informe sua idade em anos completos atual:");
 		int idadeAnos = sc.nextInt();
 		
-		System.out.println("Informe sua idade em meses:");
+		System.out.println("Informe sua idade em meses, em que passou o seu ultimo aniversário:");
 		int idadeMeses = sc.nextInt();
 		
-		System.out.println("Informe sua idade em dias:");
+		System.out.println("Informe a quantidade de dias em que passou seu ultimo mêsversário:");
 		int idadeDias = sc.nextInt();
 		
-		int dias = (idadeAnos * 365) + (idadeMeses * 30) + idadeDias;
+		int quantidadeDiasVividos = (idadeAnos * 365) + (idadeMeses * 30) + idadeDias;
 		
-		System.out.println("A sua idade em dias é de: "+ dias + " dias");
+		System.out.println("A sua idade em dias é de: "+ quantidadeDiasVividos + " dias");
 		
 		sc.close();
 		} catch (Exception e) {
