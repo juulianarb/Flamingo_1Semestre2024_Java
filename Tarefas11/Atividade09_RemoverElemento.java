@@ -1,4 +1,4 @@
-// 10) União de Vetores: Crie um programa que una dois vetores em um terceiro vetor, mantendo a ordem dos elementos.
+// 9) Remover Elemento: Desenvolva um programa que remova todas as ocorrências de um elemento específico de um vetor.
 
 package tarefa_para_casa10;
 
